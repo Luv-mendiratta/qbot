@@ -44,8 +44,8 @@ public class HomeTestPage extends BasePage{
 	static TestUtils util = new TestUtils();
 	SoftAssert softAssert = new SoftAssert();
 
-	static String TestFile = "/Users/nikitachauhan/Documents/workspace/QBot.Automation/ExportedPDFLink/DataExportedLink.txt";
-	static String ExcelLink = "/Users/nikitachauhan/Documents/workspace/QBot.Automation/Excel/english.xlsx";
+static String TestFile = System.getProperty("user.dir")+"/ExportedPDFLink/DataExportedLink.txt";
+    static String ExcelLink = System.getProperty("user.dir")+"/Excel/english.xlsx";
 	
 	  
 
