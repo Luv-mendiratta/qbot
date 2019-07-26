@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="36852" started-at="2019-07-26T07:16:39Z" finished-at="2019-07-26T07:17:16Z">
+  <suite name="Suite" duration-ms="36122" started-at="2019-07-26T07:27:24Z" finished-at="2019-07-26T07:28:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="36852" started-at="2019-07-26T07:16:39Z" finished-at="2019-07-26T07:17:16Z">
+    <test name="Test" duration-ms="36122" started-at="2019-07-26T07:27:24Z" finished-at="2019-07-26T07:28:00Z">
       <class name="com.testcases.HomeTestPage">
-        <test-method status="PASS" signature="navigate()[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="navigate" is-config="true" duration-ms="8436" started-at="2019-07-26T12:46:31Z" finished-at="2019-07-26T12:46:39Z">
+        <test-method status="PASS" signature="navigate()[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="navigate" is-config="true" duration-ms="4575" started-at="2019-07-26T12:57:19Z" finished-at="2019-07-26T12:57:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navigate -->
-        <test-method status="PASS" signature="verifyQbotlaunch()[pri:1, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyQbotlaunch" duration-ms="2738" started-at="2019-07-26T12:46:39Z" finished-at="2019-07-26T12:46:42Z">
+        <test-method status="PASS" signature="verifyQbotlaunch()[pri:1, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyQbotlaunch" duration-ms="2698" started-at="2019-07-26T12:57:24Z" finished-at="2019-07-26T12:57:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyQbotlaunch -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="5" started-at="2019-07-26T12:46:42Z" finished-at="2019-07-26T12:46:42Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="3" started-at="2019-07-26T12:57:26Z" finished-at="2019-07-26T12:57:26Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="verifyContentTesting()[pri:2, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyContentTesting" duration-ms="12571" started-at="2019-07-26T12:46:42Z" finished-at="2019-07-26T12:46:55Z">
+        <test-method status="PASS" signature="verifyContentTesting()[pri:2, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyContentTesting" duration-ms="12320" started-at="2019-07-26T12:57:26Z" finished-at="2019-07-26T12:57:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContentTesting -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="0" started-at="2019-07-26T12:46:55Z" finished-at="2019-07-26T12:46:55Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="1" started-at="2019-07-26T12:57:39Z" finished-at="2019-07-26T12:57:39Z">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="verifyContentReports()[pri:3, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyContentReports" duration-ms="6542" started-at="2019-07-26T12:46:55Z" finished-at="2019-07-26T12:47:01Z">
+        <test-method status="PASS" signature="verifyContentReports()[pri:3, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyContentReports" duration-ms="6253" started-at="2019-07-26T12:57:39Z" finished-at="2019-07-26T12:57:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyContentReports -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="0" started-at="2019-07-26T12:47:01Z" finished-at="2019-07-26T12:47:01Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="0" started-at="2019-07-26T12:57:45Z" finished-at="2019-07-26T12:57:45Z">
           <params>
             <param index="0">
               <value>
@@ -56,11 +56,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="verifyUsingExcel()[pri:4, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyUsingExcel" duration-ms="11956" started-at="2019-07-26T12:47:01Z" finished-at="2019-07-26T12:47:13Z">
+        <test-method status="PASS" signature="verifyUsingExcel()[pri:4, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyUsingExcel" duration-ms="11940" started-at="2019-07-26T12:57:45Z" finished-at="2019-07-26T12:57:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUsingExcel -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="1" started-at="2019-07-26T12:47:13Z" finished-at="2019-07-26T12:47:13Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="1" started-at="2019-07-26T12:57:57Z" finished-at="2019-07-26T12:57:57Z">
           <params>
             <param index="0">
               <value>
@@ -71,11 +71,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="verifyExcelReports()[pri:5, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyExcelReports" duration-ms="3015" started-at="2019-07-26T12:47:13Z" finished-at="2019-07-26T12:47:16Z">
+        <test-method status="PASS" signature="verifyExcelReports()[pri:5, instance:com.testcases.HomeTestPage@59a6e353]" name="verifyExcelReports" duration-ms="2896" started-at="2019-07-26T12:57:57Z" finished-at="2019-07-26T12:58:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyExcelReports -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="1" started-at="2019-07-26T12:47:16Z" finished-at="2019-07-26T12:47:16Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="captureStatus" is-config="true" duration-ms="0" started-at="2019-07-26T12:58:00Z" finished-at="2019-07-26T12:58:00Z">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="tearDown" is-config="true" duration-ms="377" started-at="2019-07-26T12:47:16Z" finished-at="2019-07-26T12:47:17Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.HomeTestPage@59a6e353]" name="tearDown" is-config="true" duration-ms="346" started-at="2019-07-26T12:58:00Z" finished-at="2019-07-26T12:58:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

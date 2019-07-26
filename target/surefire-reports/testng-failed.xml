@@ -6,11 +6,9 @@
       <class name="com.testcases.HomeTestPage">
         <methods>
           <include name="captureStatus"/>
-          <include name="verifyQbotlaunch"/>
+          <include name="tearDown"/>
           <include name="verifyContentReports"/>
           <include name="verifyContentTesting"/>
-          <include name="verifyExcelReports"/>
-          <include name="verifyUsingExcel"/>
           <include name="navigate"/>
         </methods>
       </class> <!-- com.testcases.HomeTestPage -->

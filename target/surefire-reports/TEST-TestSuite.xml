@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="36.822" tests="5" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="36.107" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib"/>
@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="verifyQbotlaunch" classname="com.testcases.HomeTestPage" time="2.738"/>
-  <testcase name="verifyContentTesting" classname="com.testcases.HomeTestPage" time="12.571"/>
-  <testcase name="verifyContentReports" classname="com.testcases.HomeTestPage" time="6.542"/>
-  <testcase name="verifyUsingExcel" classname="com.testcases.HomeTestPage" time="11.956"/>
-  <testcase name="verifyExcelReports" classname="com.testcases.HomeTestPage" time="3.015"/>
+  <testcase name="verifyQbotlaunch" classname="com.testcases.HomeTestPage" time="2.698"/>
+  <testcase name="verifyContentTesting" classname="com.testcases.HomeTestPage" time="12.319"/>
+  <testcase name="verifyContentReports" classname="com.testcases.HomeTestPage" time="6.254"/>
+  <testcase name="verifyUsingExcel" classname="com.testcases.HomeTestPage" time="11.94"/>
+  <testcase name="verifyExcelReports" classname="com.testcases.HomeTestPage" time="2.896"/>
 </testsuite>
