@@ -6,6 +6,7 @@
       <class name="com.testcases.HomeTestPage">
         <methods>
           <include name="captureStatus"/>
+          <include name="verifyQbotlaunch"/>
           <include name="verifyContentReports"/>
           <include name="verifyContentTesting"/>
           <include name="verifyExcelReports"/>
