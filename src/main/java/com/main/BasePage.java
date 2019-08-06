@@ -147,7 +147,7 @@ public class BasePage implements BasePageConstant{
 	}
 
 
-	/*Closing the Browser & Reports*/
+	//Closing the Browser & Reports
 	@AfterSuite
 	public void tearDown() throws IOException, InterruptedException
 	{
