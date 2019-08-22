@@ -59,7 +59,7 @@ public class BasePage implements BasePageConstant{
 				System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/browsers/geckodriver");
 				driver = new FirefoxDriver();
 			}else if (initialize().getProperty("testBrowser").equalsIgnoreCase("Chrome") && initialize().getProperty("OS").equalsIgnoreCase("Mac")) {
-				System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/browsers/chromedriver-2");
+				System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/browsers/chromedriver");
 				driver = new ChromeDriver();
 			}else if (initialize().getProperty("testBrowser").equalsIgnoreCase("Firefox")
 					&& initialize().getProperty("OS").equalsIgnoreCase("Windows")) {
